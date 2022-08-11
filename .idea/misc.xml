@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/bg_gradient.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/button_black_style.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/edit_text_style.xml" value="0.5" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/ic_circle_lg.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/ic_food_bank_icon.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/ic_home_lg.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/ic_menu_lg.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/ic_person_lg.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/side_nav_bar.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/drawable/splash_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_basket.xml" value="0.1796875" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_bottom.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_categories.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_item_page.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_locaion.xml" value="0.1" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_map.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_maps.xml" value="0.2653061224489796" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_order.xml" value="0.22" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_personal.xml" value="0.11684782608695653" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_profile.xml" value="0.34328358208955223" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_profile_registration.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_splash_screen.xml" value="0.10520833333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_user.xml" value="0.22" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_user_delivery_methods.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_user_distributions.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_user_order.xml" value="0.12907608695652173" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_user_order_info.xml" value="0.22" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_user_order_maps.xml" value="0.1" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/activity_user_orders.xml" value="0.3598130841121495" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/app_bar_personal.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/backet_item.xml" value="0.357429718875502" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/bottom_sheet.xml" value="0.22" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/bottom_sheet_dialog_address_layout.xml" value="0.21238938053097345" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/bottom_sheet_dialog_confirmation.xml" value="0.1" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/bottom_sheet_dialog_delivery_layout.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/bottom_sheet_dialog_layout.xml" value="0.1" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/bottom_sheet_dialog_pickup.xml" value="0.22" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/bottom_sheet_dialog_sample_location.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/category_element.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/category_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/category_vertical_item.xml" value="0.1" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/circle.xml" value="0.1796875" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/clipboard_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/content_maps.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/content_personal.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/custom_row.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/fragment_gallery.xml" value="0.11096014492753623" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/fragment_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/fragment_slideshow.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/item_dish_element.xml" value="0.3959731543624161" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/item_similar_element.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/main_category_dishes_element.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/main_category_element.xml" value="0.22" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/main_dish_element.xml" value="0.22" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/main_prom_element.xml" value="0.22" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/main_start_element.xml" value="0.1" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/order_address_element.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/order_confirm_layout.xml" value="0.22" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/order_items_element.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/order_price_element.xml" value="0.3129370629370629" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/order_start_element.xml" value="0.12182971014492754" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/place_item.xml" value="0.45187601957585644" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/place_item_pickup.xml" value="0.13636363636363635" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/prom_dialog.xml" value="0.1796875" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/prom_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/sample_maps.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/sheets.xml" value="0.1" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/similar_item.xml" value="0.6666666666666666" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/temp.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/time_parameter_changes_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/top_sheet_dialog_address_layout.xml" value="0.22" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/top_sheet_dialog_back_layout.xml" value="0.7333333333333334" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/top_sheet_dialog_layout.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/top_sheet_dialog_panel_layout.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/user_order_info_address_element.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/user_order_info_dishes_element.xml" value="0.22" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/user_order_info_dpayment_element.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/user_order_info_start_element.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/layout/user_orders_item.xml" value="0.37423312883435583" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/menu/personal.xml" value="0.22" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/menu/restaurant.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/mipmap-anydpi-v26/icon_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/SergeyPC/Desktop/Graduation project/Android application/app/src/main/res/mipmap-anydpi-v26/new_icon_launcher.xml" value="0.17407407407407408" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

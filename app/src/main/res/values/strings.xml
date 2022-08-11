@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">FooDDe</string>
+    <string name="item_name">Название элемента</string>
+    <string name="image_icon_desc">Иконка элемента</string>
+
+    <string-array name="drawer_items">
+        <item>Связаться</item>
+        <item>Подробнее</item>
+        <item>Посмотреть на карте</item>
+    </string-array>
+
+    <string name="fragment_info_text">Это макет fragment_info.xml</string>
+    <string name="fragment_email_text">Это fragment_email.xml</string>
+    <string name="map_fragment_text">Это map_fragment.xml</string>
+    <string name="title_activity_personal">PersonalActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Главная</string>
+    <string name="menu_gallery">Корзина</string>
+    <string name="menu_slideshow">Настройки</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_restaurant">RestaurantActivity</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="add">Добавить</string>
+    <string name="main">Главная</string>
+    <string name="category">Категории</string>
+    <string name="profile">Профиль</string>
+    <string name="menu">Настройки</string>
+    <string name="search">Поиск..</string>
+    <string name="specify_the_address1">Указать адрес</string>
+    <string name="specify_the_address2">Укажите место доставки</string>
+    <string name="date_of_delivery">Дата доставки: </string>
+    <string name="confirm">ПОДТВЕРЖДАЮ</string>
+
+    <string-array name="catOfDel">
+        <item>Доставка</item>
+        <item>Самовывоз</item>
+    </string-array>
+
+    <string-array name="date_of_delivery">
+        <item>Сейчас</item>
+        <item>Сегодня</item>
+        <item>Завтра</item>
+    </string-array>
+    <string name="title_activity_order">OrderActivity</string>
+    <string name="title_activity_user_order_maps">UserOrderMapsActivity</string>
+
+</resources>

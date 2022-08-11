@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "886763080743",
+    "project_id": "rdproject-e0873",
+    "storage_bucket": "rdproject-e0873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886763080743:android:9761052fe2df03bf305202",
+        "android_client_info": {
+          "package_name": "com.gmail.foodde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886763080743-cdnvc7g8cgcho763nojqia81oc486d7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8vyrG65XQyxhlT6ghK9ReeihAyZOZl64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886763080743-cdnvc7g8cgcho763nojqia81oc486d7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886763080743:android:6dad3a7d77ef394f305202",
+        "android_client_info": {
+          "package_name": "com.gmail.fooddecourier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886763080743-cdnvc7g8cgcho763nojqia81oc486d7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8vyrG65XQyxhlT6ghK9ReeihAyZOZl64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886763080743-cdnvc7g8cgcho763nojqia81oc486d7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
